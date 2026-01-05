@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin-recipes
 
 Recipes is a website where you'll get to know about various kinds of food and their recipes.
 You'll get to know a brief description about the food, also what are the ingredients used, and
@@ -8,7 +8,9 @@ Whilst working on and after completing the project, I feel I've grasped the basi
 how to actually use those concepts in the project. The most important skill I learned would be
 the basics of git and how to practically use it to my benefit.
 
-Image Credits:
-Neapolitan Pizza: https://flickr.com/photos/7831824@N04/48701940197
-Uramaki Sushi: http://www.sxc.hu/browse.phtml?f=view&id=148281
-Carnitas Taco: https://www.flickr.com/photos/galant/2404689541
+### [Click here to view](https://pranav-shivale.github.io/odin-recipes/)
+
+### Image Credits:
+- [Neapolitan Pizza](https://flickr.com/photos/7831824@N04/48701940197)
+- [Uramaki Sushi](http://www.sxc.hu/browse.phtml?f=view&id=148281)
+- [Carnitas Taco](https://www.flickr.com/photos/galant/2404689541)
