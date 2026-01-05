@@ -1,6 +1,12 @@
 # odin-recipes
 
+Recipes is a website where you'll get to know about various kinds of food and their recipes.
+You'll get to know a brief description about the food, also what are the ingredients used, and
+a step by step guide on how to actually make it.
 
+Whilst working on and after completing the project, I feel I've grasped the basics of HTML with concepts such as lists - unordered and ordered, links, images and dealing with text, and
+how to actually use those concepts in the project. The most important skill I learned would be
+the basics of git and how to practically use it to my benefit.
 
 Image Credits:
 Neapolitan Pizza: https://flickr.com/photos/7831824@N04/48701940197
