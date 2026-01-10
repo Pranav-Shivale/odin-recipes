@@ -11,6 +11,7 @@ the basics of git and how to practically use it to my benefit.
 ### [Click here to view](https://pranav-shivale.github.io/odin-recipes/)
 
 ### Image Credits:
+- [Home Page Image](https://wwwgoodfoncomfoodwallpaper-banquet-friends-variety-of-food-dishes-table-top-view.html)
 - [Neapolitan Pizza](https://flickr.com/photos/7831824@N04/48701940197)
 - [Uramaki Sushi](http://www.sxc.hu/browse.phtml?f=view&id=148281)
 - [Carnitas Taco](https://www.flickr.com/photos/galant/2404689541)
