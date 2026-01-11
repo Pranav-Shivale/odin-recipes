@@ -46,6 +46,13 @@
     color:deepskyblue;
 }
 
+.home-link {
+    display: block;
+    margin-bottom: 8px;
+    text-align: center;
+    text-decoration: none;
+}
+
 .recipe-img {
     height: 500px;
     width: auto;
