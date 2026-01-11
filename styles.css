@@ -10,14 +10,15 @@
     color: crimson;
 }
 
-#main-page-header {
+#main-page-header,
+.recipe-img {
     height: auto;
     width: 1000px;
     display: block;
     margin: 0 auto;
 }
 
-.about {
+.info {
     padding: 10px 40px;
     font-size: 20px;
 }
@@ -43,4 +44,14 @@
 
 .taco {
     color:deepskyblue;
+}
+
+.recipe-img {
+    height: 500px;
+    width: auto;
+}
+
+.info li {
+    font-size: 16px;
+    margin-left: 20px;
 }
